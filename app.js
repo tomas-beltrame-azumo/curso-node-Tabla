@@ -8,7 +8,6 @@ listar = argv.listar
 hasta = argv.hasta
 console.clear();
 
-
 console.log (argv);
 
 console.log ('base: yargs', argv.base)
